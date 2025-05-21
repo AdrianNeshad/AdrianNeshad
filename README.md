@@ -8,10 +8,10 @@ Examinerad Nationalekonom och Systemutvecklare
 
 ## Mest använda språk
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ditt-anvandarnamn&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianNeshad&layout=compact)
 
 ---
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ditt-anvandarnamn&show_icons=true&count_private=true&hide=prs,issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianNeshad&show_icons=true&count_private=true&hide=prs,issues)
