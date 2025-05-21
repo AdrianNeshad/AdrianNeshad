@@ -8,8 +8,8 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianNeshad&layout=compact)
 
----
-
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianNeshad&show_icons=true&count_private=true&hide=prs,issues)
+
+---
