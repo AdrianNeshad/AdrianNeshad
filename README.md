@@ -26,14 +26,11 @@
   </tr>
 </table>
 
-<tr>
-  <td style="text-align: center; padding: 10px; border: none;">
-    <a href="https://apps.apple.com/us/developer/adrian-neshad/id1813365428">
-      <img rsc="https://github.com/user-attachments/assets/67116ace-9219-4bec-9742-373f3e58ac1d" width="120" alt="Eloque AI Logo"/>
-      <div><strong>Check out my apps!</strong></div>
-</tr>
-
-![Image](https://github.com/user-attachments/assets/67116ace-9219-4bec-9742-373f3e58ac1d)
-https://apps.apple.com/us/developer/adrian-neshad/id1813365428
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://apps.apple.com/us/developer/adrian-neshad/id1813365428">
+    <img src="https://github.com/user-attachments/assets/67116ace-9219-4bec-9742-373f3e58ac1d" width="150" alt="Check out my apps"/>
+    <div><strong>Check out my apps!</strong></div>
+  </a>
+</div>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianNeshad&layout=compact)
