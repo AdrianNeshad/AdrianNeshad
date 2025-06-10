@@ -5,7 +5,7 @@
 <p align="center">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/643ee133-ef99-40c5-9195-5ab4ad4ad0f1" width="120"/>
-    <div><strong>Univert</strong></div>
+    <div><strong>FlixSwipe</strong></div>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/866314d5-ed3f-4fb3-9526-2cf3a4666d94" width="120"/>
