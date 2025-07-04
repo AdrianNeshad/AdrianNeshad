@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adrian-neshad)](https://linkedin.com/in/adrian-neshad)  👋 Adrian Neshad - Examinerad Nationalekonom och Systemutvecklare
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adrian-neshad)](https://linkedin.com/in/adrian-neshad)  👋 Adrian Neshad - Nationalekonom och Systemutvecklare
 ---
 
 <table style="width:100%; border-collapse: collapse; border: none;">
