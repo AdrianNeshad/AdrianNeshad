@@ -19,7 +19,7 @@
       <div><strong>FlixSwipe</strong></div>
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
-      <a href="https://github.com/AdrianNeshad/Unifeed">
+      <a href="https://apps.apple.com/us/app/unifeed-nyhetsfl%C3%B6de/id6746872036">
       <img src="https://github.com/user-attachments/assets/f8817fb6-7c5a-488a-b85f-319801451811" width="120" alt="Unifeed Logo"/>
       <div><strong>Unifeed</strong></div>
     </td>
