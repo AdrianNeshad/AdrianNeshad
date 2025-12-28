@@ -4,7 +4,7 @@
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="text-align: center; padding: 10px; border: none;">
-      <a target="_blank" href="https://github.com/AdrianNeshad/Eloque-AI">
+      <a target="_blank" href="https://github.com/AdrianNeshad/Eloque-AI"> </a>
       <img src="https://github.com/user-attachments/assets/61c03411-c186-4783-b5ac-8dd43b582c9a" width="120" alt="Eloque AI Logo"/>
       <div><strong>Eloque AI</strong></div>
     </td>
