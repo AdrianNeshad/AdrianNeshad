@@ -14,11 +14,6 @@
       <div><strong>Univert</strong></div>
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
-      <a href="https://apps.apple.com/us/app/swipeflix-explore-new-movies/id6746716902">
-      <img src="https://github.com/user-attachments/assets/643ee133-ef99-40c5-9195-5ab4ad4ad0f1" width="120" alt="FlixSwipe Logo"/>
-      <div><strong>FlixSwipe</strong></div>
-    </td>
-    <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://apps.apple.com/us/app/unifeed-nyhetsfl%C3%B6de/id6746872036">
       <img src="https://github.com/user-attachments/assets/f8817fb6-7c5a-488a-b85f-319801451811" width="120" alt="Unifeed Logo"/>
       <div><strong>Unifeed</strong></div>
