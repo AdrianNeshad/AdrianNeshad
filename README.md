@@ -4,7 +4,7 @@
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="text-align: center; padding: 10px; border: none;">
-      <a href="https://github.com/AdrianNeshad/CryptoToolbox/releases">
+      <a href="https://github.com/AdrianNeshad/CryptoToolbox">
       <img src="https://raw.githubusercontent.com/AdrianNeshad/CryptoToolbox/main/build/icon-preview.png" width="120" alt="CryptoToolbox Logo"/>
       <div><strong>CryptoToolbox</strong></div>
     </td>
