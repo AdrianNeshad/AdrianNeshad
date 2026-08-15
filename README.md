@@ -1,8 +1,13 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adrian-neshad)](https://linkedin.com/in/adrian-neshad)  👋 Adrian Neshad - Nationalekonom och Systemutvecklare
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adrian-neshad)](https://linkedin.com/in/adrian-neshad) [![CryptoToolbox Releases](https://img.shields.io/badge/-CryptoToolbox%20Releases-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/AdrianNeshad/CryptoToolbox/releases)  👋 Adrian Neshad - Nationalekonom och Systemutvecklare
 ---
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
+    <td style="text-align: center; padding: 10px; border: none;">
+      <a href="https://github.com/AdrianNeshad/CryptoToolbox/releases">
+      <img src="https://raw.githubusercontent.com/AdrianNeshad/CryptoToolbox/main/build/icon-preview.png" width="120" alt="CryptoToolbox Logo"/>
+      <div><strong>CryptoToolbox</strong></div>
+    </td>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/AdrianNeshad/Eloque-AI">
       <img src="https://github.com/user-attachments/assets/61c03411-c186-4783-b5ac-8dd43b582c9a" width="120" alt="Eloque AI Logo"/>
