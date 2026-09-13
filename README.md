@@ -32,7 +32,3 @@
     <div><strong>Check out my apps!</strong></div>
   </a>
 </div>
-
----
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianNeshad&layout=compact)
