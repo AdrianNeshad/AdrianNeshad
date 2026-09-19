@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adrian-neshad)](https://linkedin.com/in/adrian-neshad) [![CryptoToolbox Releases](https://img.shields.io/badge/-CryptoToolbox%20Releases-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/AdrianNeshad/CryptoToolbox/releases)  👋 Adrian Neshad - Nationalekonom och Systemutvecklare
+👋 Adrian Neshad - Nationalekonom och Systemutvecklare
 ---
 
 <table style="width:100%; border-collapse: collapse; border: none;">
@@ -25,6 +25,8 @@
     </td>
   </tr>
 </table>
+        
+[![CryptoToolbox Releases](https://img.shields.io/badge/-CryptoToolbox%20Releases-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/AdrianNeshad/CryptoToolbox/releases) 
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://apps.apple.com/us/developer/adrian-neshad/id1813365428">
